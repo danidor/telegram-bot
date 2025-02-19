@@ -1,0 +1,6 @@
+python-telegram-bot==20.0
+requests==2.31.0
+matplotlib==3.7.1
+mplfinance==0.12.9b7
+pandas==1.5.3
+nest_asyncio==1.5.6
